@@ -1,0 +1,16 @@
+.main {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f4f4f4;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+/* Style for the 'hello-world' header */
+.main h3 {
+  font-size: 24px;
+  color: #333;
+}

@@ -1,0 +1,45 @@
+/* Style for the main container */
+
+/* Style for the 'counter' component container */
+#main-counter {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for the 'Counter:' text */
+#main-counter h1 {
+  font-size: 28px;
+  color: #333;
+}
+
+/* Style for the buttons */
+#main-counter button {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Hover effect for buttons */
+#main-counter button:hover {
+  background-color: #0056b3;
+}
+
+/* Reset button style */
+#main-counter button.reset {
+  background-color: #ff6347;
+}
+
+/* Hover effect for reset button */
+#main-counter button.reset:hover {
+  background-color: #ff4c35;
+}
